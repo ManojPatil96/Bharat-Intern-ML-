@@ -1,1 +1,1 @@
-# Bharat-Intern-ML-
+# Bharat-Intern-Machine Learning Internship
